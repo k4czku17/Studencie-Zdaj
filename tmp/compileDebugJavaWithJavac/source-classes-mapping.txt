@@ -1,0 +1,6 @@
+pl/wsb/projekt/AndroidLauncher.java
+ pl.wsb.projekt.AndroidLauncher
+pl/wsb/projekt/StudencieZdaj.java
+ pl.wsb.projekt.StudencieZdaj
+pl/wsb/projekt/BuildConfig.java
+ pl.wsb.projekt.BuildConfig
